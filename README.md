@@ -15,6 +15,12 @@ Linxian Gao, 2024213575, 241118050, jp2024213575@qmul.ac.uk
 
 Qingyang Li, 2024213551, 241118186, rainstone7423@qq.com
 
+## Task Allocation
+
+1. Homepage - Linxian Gao
+2. Game - Pengqi Sun
+3. Quiz - Qingyang Li
+
 ## Assigned TA: Wenyue Tong
 
 ## Overview
